@@ -1,8 +1,6 @@
 # Galactic
 #Galactic Shield Web Game
 
-![Screenshot] (screenshot_game.png)
-
 This is the cool web game in which you become a starship pilot. You need to protect the galaxy and
 
 ## Features
